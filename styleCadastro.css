@@ -1,0 +1,129 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.titulo {
+    display: block;
+}
+
+.h1 {
+    font-family: Arial;
+
+}
+
+.h2 {
+    font-family: Arial;
+}
+
+.container {
+    display: flex;
+    width: 900px;
+    height: 500px;
+    align-items: center;
+    
+}
+
+.nomeCpf {
+    display: flex;
+    width: 600px;
+}
+.nome{
+    width: 490px;
+}
+
+.cpf {
+    width: 200px;
+    margin-left: 10px;
+}
+
+.endereco {
+    display: flex;
+    width: 600px;
+}
+
+.local {
+    display: flex;
+    width: 600px;
+
+}
+.bairro{
+    display: flex;
+    width: 295px;
+}
+
+.cidade {
+    display: flex;
+    width: 295px;
+    margin-left: 10px;
+}
+
+.contato {
+    display: flex;
+    width: 600px;
+}
+
+.celular {
+    display: flex;
+    width: 295px;
+}
+
+.outroCel {
+    display: flex;
+    width: 295px;
+    margin-left: 10px;
+}
+
+.dados {
+    display: flex;
+    width: 600px;
+}
+
+.nascimento{
+    width: 185px;
+}
+
+.e-mail {
+    width: 235px;
+    margin-left: 10px;
+}
+
+.salario {
+    width: 160px;
+    margin-left: 10px;
+
+
+}
+
+.ensino {
+    display: flex;
+    width: 600px;
+}
+
+.escola {
+    width: 295px;
+}
+
+.cursoPretendido {
+    width: 295px;
+    margin-left: 10px;
+}
+
+.botao {
+    display: flex;
+    width: 600px;
+}
+
+.salvar {
+    width: 295px;
+}
+
+.cancelar {
+    width: 295px;
+    margin-left: 10px;
+}

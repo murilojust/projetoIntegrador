@@ -1,0 +1,23 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.h1 {
+    font-family: Arial;
+
+}
+
+.container {
+    display: block;
+    width: 400px;
+    height: 500px;
+    margin-top: 116px;
+    margin-left: 00px;
+    
+}

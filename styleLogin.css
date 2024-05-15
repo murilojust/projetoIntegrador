@@ -1,0 +1,35 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.h1 {
+    font-family: Arial;
+
+}
+
+.container {
+    display: flex;
+    width: 400px;
+    height: 500px;
+    
+}
+
+.comando {
+    display: flex;
+    width: 400px;
+}
+
+.enviar {
+    width: 183.01px;
+}
+
+.cancelar {
+    width: 183.01px;
+    margin-left: 10px;
+}
